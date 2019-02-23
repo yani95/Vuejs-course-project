@@ -1,0 +1,8 @@
+{
+  "globalDependencies": {
+    "axios": "registry:dt/axios#0.9.1+20161016142654",
+    "bootstrap": "registry:dt/bootstrap#3.3.5+20160726204056",
+    "moment": "registry:dt/moment#2.11.1+20161010105546",
+    "vue": "registry:dt/vue#1.0.21+20160929090511"
+  }
+}
